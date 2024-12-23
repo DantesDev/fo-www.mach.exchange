@@ -332,7 +332,7 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                                   "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                               },
                               children: e(l, {
-                                href: "docs.mach.exchange",
+                                href: "docs.toppointai.corg",
                                 openInNewTab: !1,
                                 smoothScroll: !1,
                                 children: e(r.a, {
@@ -369,7 +369,7 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                                         "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                                     },
                                     children: e(l, {
-                                      href: "docs.mach.exchange",
+                                      href: "docs.toppointai.corg",
                                       openInNewTab: !1,
                                       smoothScroll: !1,
                                       children: e(r.a, {
@@ -423,7 +423,7 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                             }),
                         }),
                       e(l, {
-                        href: "https://app.machxai.org",
+                        href: "https://app.toppointai.org",
                         openInNewTab: !1,
                         children: e(r.a, {
                           className: "framer-1ptk5f7 framer-bag1pc",
@@ -643,7 +643,7 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                               "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                           },
                           children: e(l, {
-                            href: "docs.machxai.org",
+                            href: "docs.toppointai.org",
                             openInNewTab: !0,
                             smoothScroll: !1,
                             children: e(r.a, {
@@ -1013,7 +1013,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                     onTap: oe,
                     children: [
                       e(l, {
-                        href: "https://x.com/machxai",
+                        href: "https://x.com/toppointai",
                         openInNewTab: !0,
                         children: e(r.a, {
                           className: "framer-qrrhxo framer-1rpdhen",
@@ -1034,7 +1034,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                         }),
                       }),
                       e(l, {
-                        href: "https://t.me/machxai",
+                        href: "https://t.me/toppointai",
                         openInNewTab: !0,
                         children: e(S, {
                           as: "a",
