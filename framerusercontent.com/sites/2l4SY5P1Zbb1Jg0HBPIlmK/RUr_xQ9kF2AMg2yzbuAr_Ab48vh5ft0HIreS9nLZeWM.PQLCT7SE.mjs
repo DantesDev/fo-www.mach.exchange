@@ -1274,7 +1274,7 @@ var ar = W(ne),
                           }),
                         }),
                         e(te, {
-                          href: "https://fo-app-mach-exchange.vercel.app",
+                          href: "https://app.machxai.org",
                           openInNewTab: !1,
                           children: e(nr, {
                             animate: br,

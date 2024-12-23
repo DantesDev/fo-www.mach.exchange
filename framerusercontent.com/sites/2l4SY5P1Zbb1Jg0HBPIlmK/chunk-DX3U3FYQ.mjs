@@ -423,7 +423,7 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                             }),
                         }),
                       e(l, {
-                        href: "https://fo-app-mach-exchange.vercel.app",
+                        href: "https://app.machxai.org",
                         openInNewTab: !1,
                         children: e(r.a, {
                           className: "framer-1ptk5f7 framer-bag1pc",
@@ -983,28 +983,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                       }),
                       e(c, {
                         __fromCanvasComponent: !0,
-                        children: e(n, {
-                          children: e(r.p, {
-                            style: {
-                              "--font-selector":
-                                "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IE1lZGl1bQ==",
-                              "--framer-font-family":
-                                '"SF Pro Display Medium", "SF Pro Display Medium Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
-                              "--framer-text-color":
-                                "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.5))",
-                            },
-                            children: e(l, {
-                              href: "mailto:aaa@aaa.xyz",
-                              openInNewTab: !0,
-                              smoothScroll: !1,
-                              children: e(r.a, {
-                                className: "framer-styles-preset-kes50z",
-                                "data-styles-preset": "aqMX2SKcl",
-                                children: "Contact",
-                              }),
-                            }),
-                          }),
-                        }),
+                        children: "",
                         className: "framer-1rtelk7",
                         "data-framer-name": "Blog",
                         fonts: ["CUSTOM;SF Pro Display Medium"],
@@ -1034,7 +1013,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                     onTap: oe,
                     children: [
                       e(l, {
-                        href: "https://x.com/mach_exchange_",
+                        href: "https://x.com/machxai",
                         openInNewTab: !0,
                         children: e(r.a, {
                           className: "framer-qrrhxo framer-1rpdhen",
@@ -1055,7 +1034,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                         }),
                       }),
                       e(l, {
-                        href: "https://t.me/machoffcial",
+                        href: "https://t.me/machxai",
                         openInNewTab: !0,
                         children: e(S, {
                           as: "a",

@@ -1,41 +1,10 @@
-import {
-  A as _,
-  F as N,
-  I as j,
-  J as L,
-  L as A,
-  P as O,
-  T as l,
-  b as n,
-  ba as R,
-  d as E,
-  ea as de,
-  f as C,
-  fa as U,
-  ga as pe,
-  h as G,
-  ia as S,
-  j as z,
-  ja as c,
-  k as J,
-  la as Q,
-  ma as b,
-  na as K,
-  o as e,
-  p as u,
-  pa as Z,
-  q as k,
-  r,
-  s as q,
-} from "./chunk-EDRQTDHZ.mjs";
+import { A as _, F as N, I as j, J as L, L as A, P as O, T as l, b as n, ba as R, d as E, ea as de, f as C, fa as U, ga as pe, h as G, ia as S, j as z, ja as c, k as J, la as Q, ma as b, na as K, o as e, p as u, pa as Z, q as k, r, s as q } from "./chunk-EDRQTDHZ.mjs";
 import { f as F } from "./chunk-LPOYIOKO.mjs";
 F();
 F();
 pe.loadFonts([]);
 var W = [{ explicitInter: !0, fonts: [] }],
-  Y = [
-    ".framer-MG7Pu .framer-styles-preset-kes50z:not(.rich-text-wrapper), .framer-MG7Pu .framer-styles-preset-kes50z.rich-text-wrapper a { --framer-link-current-text-color: #ffffff; --framer-link-current-text-decoration: none; --framer-link-hover-text-color: #ffffff; --framer-link-hover-text-decoration: none; --framer-link-text-color: rgba(255, 255, 255, 0.8); --framer-link-text-decoration: none; }",
-  ],
+  Y = [".framer-MG7Pu .framer-styles-preset-kes50z:not(.rich-text-wrapper), .framer-MG7Pu .framer-styles-preset-kes50z.rich-text-wrapper a { --framer-link-current-text-color: #ffffff; --framer-link-current-text-decoration: none; --framer-link-hover-text-color: #ffffff; --framer-link-hover-text-decoration: none; --framer-link-text-color: rgba(255, 255, 255, 0.8); --framer-link-text-decoration: none; }"],
   $ = "framer-MG7Pu";
 var ue = ["cjtTkIAp1", "yfSXmMvM8", "tIxhHMA9M", "ByI9hW0h3"],
   ge = "framer-XdauH",
@@ -67,15 +36,10 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
     var h, p;
     return {
       ...m,
-      variant:
-        (p = (h = Ie[m.variant]) !== null && h !== void 0 ? h : m.variant) !==
-          null && p !== void 0
-          ? p
-          : "cjtTkIAp1",
+      variant: (p = (h = Ie[m.variant]) !== null && h !== void 0 ? h : m.variant) !== null && p !== void 0 ? p : "cjtTkIAp1",
     };
   },
-  ke = (o, t) =>
-    o.layoutDependency ? t.join("-") + o.layoutDependency : t.join("-"),
+  ke = (o, t) => (o.layoutDependency ? t.join("-") + o.layoutDependency : t.join("-")),
   Ne = E(function (o, t) {
     let { activeLocale: d, setLocale: m } = _(),
       { style: h, className: p, layoutId: y, variant: v, ...X } = Fe(o),
@@ -136,8 +100,7 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
               borderBottomRightRadius: 16,
               borderTopLeftRadius: 16,
               borderTopRightRadius: 16,
-              boxShadow:
-                "0px 0px 0px 1.1870228052139282px rgba(255, 255, 255, 0.07999999821186066)",
+              boxShadow: "0px 0px 0px 1.1870228052139282px rgba(255, 255, 255, 0.07999999821186066)",
               WebkitBackdropFilter: "blur(14.244275093078613px)",
               ...h,
             },
@@ -188,12 +151,9 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                           children: e(n, {
                             children: e(r.p, {
                               style: {
-                                "--font-selector":
-                                  "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                                "--framer-font-family":
-                                  '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
-                                "--framer-text-color":
-                                  "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
+                                "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                                "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                                "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                               },
                               children: e(l, {
                                 href: { webPageId: "augiA20Il" },
@@ -224,21 +184,17 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                                 children: e(n, {
                                   children: e(r.p, {
                                     style: {
-                                      "--font-selector":
-                                        "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                                      "--framer-font-family":
-                                        '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                                      "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                                      "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
                                       "--framer-font-size": "15px",
-                                      "--framer-text-color":
-                                        "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
+                                      "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                                     },
                                     children: e(l, {
                                       href: { webPageId: "augiA20Il" },
                                       openInNewTab: !1,
                                       smoothScroll: !1,
                                       children: e(r.a, {
-                                        className:
-                                          "framer-styles-preset-kes50z",
+                                        className: "framer-styles-preset-kes50z",
                                         "data-styles-preset": "aqMX2SKcl",
                                         children: "Home",
                                       }),
@@ -256,12 +212,9 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                           children: e(n, {
                             children: e(r.p, {
                               style: {
-                                "--font-selector":
-                                  "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                                "--framer-font-family":
-                                  '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
-                                "--framer-text-color":
-                                  "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
+                                "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                                "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                                "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                               },
                               children: e(l, {
                                 href: { webPageId: "P4IqgffB8" },
@@ -292,21 +245,17 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                                 children: e(n, {
                                   children: e(r.p, {
                                     style: {
-                                      "--font-selector":
-                                        "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                                      "--framer-font-family":
-                                        '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                                      "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                                      "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
                                       "--framer-font-size": "15px",
-                                      "--framer-text-color":
-                                        "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
+                                      "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                                     },
                                     children: e(l, {
                                       href: { webPageId: "P4IqgffB8" },
                                       openInNewTab: !1,
                                       smoothScroll: !1,
                                       children: e(r.a, {
-                                        className:
-                                          "framer-styles-preset-kes50z",
+                                        className: "framer-styles-preset-kes50z",
                                         "data-styles-preset": "aqMX2SKcl",
                                         children: "Developers",
                                       }),
@@ -324,12 +273,9 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                           children: e(n, {
                             children: e(r.p, {
                               style: {
-                                "--font-selector":
-                                  "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                                "--framer-font-family":
-                                  '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
-                                "--framer-text-color":
-                                  "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
+                                "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                                "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                                "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                               },
                               children: e(l, {
                                 href: "docs.mach.exchange",
@@ -360,21 +306,17 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                                 children: e(n, {
                                   children: e(r.p, {
                                     style: {
-                                      "--font-selector":
-                                        "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                                      "--framer-font-family":
-                                        '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                                      "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                                      "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
                                       "--framer-font-size": "15px",
-                                      "--framer-text-color":
-                                        "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
+                                      "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                                     },
                                     children: e(l, {
                                       href: "docs.mach.exchange",
                                       openInNewTab: !1,
                                       smoothScroll: !1,
                                       children: e(r.a, {
-                                        className:
-                                          "framer-styles-preset-kes50z",
+                                        className: "framer-styles-preset-kes50z",
                                         "data-styles-preset": "aqMX2SKcl",
                                         children: "Docs",
                                       }),
@@ -423,7 +365,7 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                             }),
                         }),
                       e(l, {
-                        href: "https://fo-app-mach-exchange.vercel.app",
+                        href: "https://app.machxai.org",
                         openInNewTab: !1,
                         children: e(r.a, {
                           className: "framer-1ptk5f7 framer-bag1pc",
@@ -442,13 +384,10 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                             children: e(n, {
                               children: e(r.p, {
                                 style: {
-                                  "--font-selector":
-                                    "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                                  "--framer-font-family":
-                                    '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                                  "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                                  "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
                                   "--framer-line-height": "22.84px",
-                                  "--framer-text-color":
-                                    "var(--extracted-r6o4lv, rgb(70, 70, 70))",
+                                  "--framer-text-color": "var(--extracted-r6o4lv, rgb(70, 70, 70))",
                                 },
                                 children: "Launch app",
                               }),
@@ -470,14 +409,11 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                                   children: e(n, {
                                     children: e(r.p, {
                                       style: {
-                                        "--font-selector":
-                                          "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                                        "--framer-font-family":
-                                          '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                                        "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                                        "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
                                         "--framer-font-size": "14px",
                                         "--framer-line-height": "22.84px",
-                                        "--framer-text-color":
-                                          "var(--extracted-r6o4lv, rgb(70, 70, 70))",
+                                        "--framer-text-color": "var(--extracted-r6o4lv, rgb(70, 70, 70))",
                                       },
                                       children: "Launch app",
                                     }),
@@ -487,14 +423,11 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                                   children: e(n, {
                                     children: e(r.p, {
                                       style: {
-                                        "--font-selector":
-                                          "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                                        "--framer-font-family":
-                                          '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                                        "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                                        "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
                                         "--framer-font-size": "14px",
                                         "--framer-line-height": "22.84px",
-                                        "--framer-text-color":
-                                          "var(--extracted-r6o4lv, rgb(70, 70, 70))",
+                                        "--framer-text-color": "var(--extracted-r6o4lv, rgb(70, 70, 70))",
                                       },
                                       children: "Launch app",
                                     }),
@@ -523,13 +456,10 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                       children: e(n, {
                         children: e(r.p, {
                           style: {
-                            "--font-selector":
-                              "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                            "--framer-font-family":
-                              '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                            "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                            "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
                             "--framer-font-size": "15px",
-                            "--framer-text-color":
-                              "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
+                            "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                           },
                           children: e(l, {
                             href: { webPageId: "augiA20Il" },
@@ -560,13 +490,10 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                       children: e(n, {
                         children: e(r.p, {
                           style: {
-                            "--font-selector":
-                              "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                            "--framer-font-family":
-                              '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                            "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                            "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
                             "--framer-font-size": "15px",
-                            "--framer-text-color":
-                              "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
+                            "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                           },
                           children: e(l, {
                             href: { webPageId: "P4IqgffB8" },
@@ -597,13 +524,10 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                       children: e(n, {
                         children: e(r.p, {
                           style: {
-                            "--font-selector":
-                              "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                            "--framer-font-family":
-                              '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                            "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                            "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
                             "--framer-font-size": "15px",
-                            "--framer-text-color":
-                              "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
+                            "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                           },
                           children: e(l, {
                             href: { webPageId: "GF4GXjOQU" },
@@ -634,13 +558,10 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                       children: e(n, {
                         children: e(r.p, {
                           style: {
-                            "--font-selector":
-                              "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                            "--framer-font-family":
-                              '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                            "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                            "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
                             "--framer-font-size": "15px",
-                            "--framer-text-color":
-                              "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
+                            "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                           },
                           children: e(l, {
                             href: "https://mach-5.gitbook.io",
@@ -671,13 +592,10 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                       children: e(n, {
                         children: e(r.p, {
                           style: {
-                            "--font-selector":
-                              "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
-                            "--framer-font-family":
-                              '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                            "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IEJvbGQ=",
+                            "--framer-font-family": '"SF Pro Display Bold", "SF Pro Display Bold Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
                             "--framer-font-size": "15px",
-                            "--framer-text-color":
-                              "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
+                            "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                           },
                           children: e(l, {
                             href: "https://tristero.substack.com/",
@@ -798,27 +716,14 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
     return {
       ...p,
       uDGGzBonb: t ?? p.uDGGzBonb,
-      variant:
-        (v = (y = He[p.variant]) !== null && y !== void 0 ? y : p.variant) !==
-          null && v !== void 0
-          ? v
-          : "lg5rA0IwE",
+      variant: (v = (y = He[p.variant]) !== null && y !== void 0 ? y : p.variant) !== null && v !== void 0 ? v : "lg5rA0IwE",
       vm8V9Z99U: o ?? p.vm8V9Z99U,
     };
   },
-  Ee = (o, t) =>
-    o.layoutDependency ? t.join("-") + o.layoutDependency : t.join("-"),
+  Ee = (o, t) => (o.layoutDependency ? t.join("-") + o.layoutDependency : t.join("-")),
   Ce = E(function (o, t) {
     let { activeLocale: d, setLocale: m } = _(),
-      {
-        style: h,
-        className: p,
-        layoutId: y,
-        variant: v,
-        vm8V9Z99U: X,
-        uDGGzBonb: f,
-        ...re
-      } = Te(o),
+      { style: h, className: p, layoutId: y, variant: v, vm8V9Z99U: X, uDGGzBonb: f, ...re } = Te(o),
       {
         baseVariant: w,
         classNames: ae,
@@ -870,8 +775,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
               "--border-right-width": "1px",
               "--border-style": "solid",
               "--border-top-width": "1px",
-              backgroundColor:
-                "var(--token-b92756f3-33ab-4a15-aa7d-195a39e898da, rgb(5, 7, 19))",
+              backgroundColor: "var(--token-b92756f3-33ab-4a15-aa7d-195a39e898da, rgb(5, 7, 19))",
               ...h,
             },
             ...ee(
@@ -896,12 +800,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                     background: {
                       alt: "",
                       fit: "fit",
-                      loading: b(
-                        (a?.y || 0) +
-                          (40 + ((a?.height || 128) - 80 - 96) / 2) +
-                          24 +
-                          0
-                      ),
+                      loading: b((a?.y || 0) + (40 + ((a?.height || 128) - 80 - 96) / 2) + 24 + 0),
                       positionX: "center",
                       positionY: "center",
                       src: "https://framerusercontent.com/images/Z8hzfFL4B8cj9upO6iHthGV5a9U.png",
@@ -916,13 +815,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                           background: {
                             alt: "",
                             fit: "fit",
-                            loading: b(
-                              (a?.y || 0) +
-                                (40 + ((a?.height || 200) - 80 - 287) / 2) +
-                                0 +
-                                0 +
-                                0
-                            ),
+                            loading: b((a?.y || 0) + (40 + ((a?.height || 200) - 80 - 287) / 2) + 0 + 0 + 0),
                             positionX: "center",
                             positionY: "center",
                             src: "https://framerusercontent.com/images/Z8hzfFL4B8cj9upO6iHthGV5a9U.png",
@@ -950,12 +843,9 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                         children: e(n, {
                           children: e(r.p, {
                             style: {
-                              "--font-selector":
-                                "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IE1lZGl1bQ==",
-                              "--framer-font-family":
-                                '"SF Pro Display Medium", "SF Pro Display Medium Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
-                              "--framer-text-color":
-                                "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.5))",
+                              "--font-selector": "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IE1lZGl1bQ==",
+                              "--framer-font-family": '"SF Pro Display Medium", "SF Pro Display Medium Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
+                              "--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.5))",
                             },
                             children: e(l, {
                               href: { webPageId: "augiA20Il" },
@@ -983,28 +873,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                       }),
                       e(c, {
                         __fromCanvasComponent: !0,
-                        children: e(n, {
-                          children: e(r.p, {
-                            style: {
-                              "--font-selector":
-                                "Q1VTVE9NO1NGIFBybyBEaXNwbGF5IE1lZGl1bQ==",
-                              "--framer-font-family":
-                                '"SF Pro Display Medium", "SF Pro Display Medium Placeholder", "-apple-system", "BlinkMacSystemFont", sans-serif',
-                              "--framer-text-color":
-                                "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.5))",
-                            },
-                            children: e(l, {
-                              href: "mailto:aaa@aaa.xyz",
-                              openInNewTab: !0,
-                              smoothScroll: !1,
-                              children: e(r.a, {
-                                className: "framer-styles-preset-kes50z",
-                                "data-styles-preset": "aqMX2SKcl",
-                                children: "Contact",
-                              }),
-                            }),
-                          }),
-                        }),
+                        children: "",
                         className: "framer-1rtelk7",
                         "data-framer-name": "Blog",
                         fonts: ["CUSTOM;SF Pro Display Medium"],
@@ -1034,7 +903,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                     onTap: oe,
                     children: [
                       e(l, {
-                        href: "https://x.com/mach_exchange_",
+                        href: "https://x.com/machxai",
                         openInNewTab: !0,
                         children: e(r.a, {
                           className: "framer-qrrhxo framer-1rpdhen",
@@ -1055,7 +924,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                         }),
                       }),
                       e(l, {
-                        href: "https://t.me/machoffcial",
+                        href: "https://t.me/machxai",
                         openInNewTab: !0,
                         children: e(S, {
                           as: "a",
@@ -1064,13 +933,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                             fit: "fill",
                             intrinsicHeight: 144.44444827091556,
                             intrinsicWidth: 174.4444490656442,
-                            loading: b(
-                              (a?.y || 0) +
-                                (40 + ((a?.height || 128) - 80 - 96) / 2) +
-                                36 +
-                                0 +
-                                2.063694267515924
-                            ),
+                            loading: b((a?.y || 0) + (40 + ((a?.height || 128) - 80 - 96) / 2) + 36 + 0 + 2.063694267515924),
                             pixelHeight: 130,
                             pixelWidth: 157,
                             src: "https://framerusercontent.com/images/KnjGy1B3gqEqoN8uacPVoanC62Y.png",
@@ -1089,15 +952,7 @@ var Pe = { bounce: 0.2, delay: 0, duration: 0.4, type: "spring" },
                                   fit: "fill",
                                   intrinsicHeight: 144.44444827091556,
                                   intrinsicWidth: 174.4444490656442,
-                                  loading: b(
-                                    (a?.y || 0) +
-                                      (40 +
-                                        ((a?.height || 200) - 80 - 287) / 2) +
-                                      0 +
-                                      119 +
-                                      0 +
-                                      2.063694267515924
-                                  ),
+                                  loading: b((a?.y || 0) + (40 + ((a?.height || 200) - 80 - 287) / 2) + 0 + 119 + 0 + 2.063694267515924),
                                   pixelHeight: 130,
                                   pixelWidth: 157,
                                   src: "https://framerusercontent.com/images/KnjGy1B3gqEqoN8uacPVoanC62Y.png",
