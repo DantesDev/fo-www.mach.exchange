@@ -643,7 +643,7 @@ var ve = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                               "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.8))",
                           },
                           children: e(l, {
-                            href: "docs.toppointai.org",
+                            href: "https://docs.toppointai.org",
                             openInNewTab: !0,
                             smoothScroll: !1,
                             children: e(r.a, {
